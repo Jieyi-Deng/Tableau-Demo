@@ -10,11 +10,6 @@ With the spread of COVID-19 all over the world, its effect is being felt far bey
 To understand COVID-19’s hit on the economy, here is the visulized dashboard:
 
 
-In April, the unemployment rate increased by 10.3 percentage points to 14.7 percent. This is the
-highest rate and the largest over-the-month increase in the history of the series (seasonally adjusted data
-are available back to January 1948). The number of unemployed persons rose by 15.9 million to 23.1
-million in April. The sharp increases in these measures reflect the effects of the coronavirus pandemic
-and efforts to contain it. (
 ## Traffic volumn trends
 The database is available on FHWA https://highways.dot.gov/
 
