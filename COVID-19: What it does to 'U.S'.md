@@ -12,7 +12,7 @@ Understanding what the COVID-19 does to the U.S is evolving. This document attem
 With the spread of COVID-19 all over the world, its effect is being felt far beyond the over 140,000 Americans who are confirmed infected.
 To understand COVID-19’s hit on the economy, here is the visulized dashboard:
 
-![Unemployment rate by State](/Workbooks/Financial(5).png)
+![Unemployment rate by State](/Workbooks/Financial.png)
 
 The database is available on https://www.bls.gov/
 
