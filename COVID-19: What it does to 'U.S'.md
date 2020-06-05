@@ -7,6 +7,8 @@ At the end of 2019, a novel coronavirus was identified as the cause of a cluster
 
 Understanding what the COVID-19 does to the U.S is evolving. This document attempts to show the changes in the aspect of economics and transortation. All data are available from online resource. 
 
+*Data comes from JHU CORONAVIRUS Resource Center: https://coronavirus.jhu.edu/*
+
 ## Unemployment rate by State
 
 With the spread of COVID-19 all over the world, its effect is being felt far beyond the over 140,000 Americans who are confirmed infected.
@@ -14,7 +16,7 @@ To understand COVID-19’s hit on the economy, here is the visulized dashboard:
 
 ![Unemployment rate by State](/Workbooks/Financial.png)
 
-The database is available on https://www.bls.gov/
+*The database is available on https://www.bls.gov/*
 
 ## Traffic volumn trends for March 2020
 
@@ -22,4 +24,4 @@ Travel on all roads and streets changed by -18.6% (-50.6 billion vehicle miles) 
 
 ![Traffic volumn trends](/Workbooks/Transportation.png)
 
-The database is available on FHWA https://highways.dot.gov/
+*The database is available on FHWA https://highways.dot.gov/*
