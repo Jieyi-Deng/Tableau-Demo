@@ -5,7 +5,7 @@ At the end of 2019, a novel coronavirus was identified as the cause of a cluster
 
 ![confirmed cases as of date June 1st](/Workbooks/COVID.png)
 
-Understanding what the COVID-19 does to the U.S is evolving. This document attempts to show the changes in the aspect of economics and transortation. All data are available from online resource. 
+Understanding what the COVID-19 does to the U.S is evolving. This document attempts to show the changes in the aspect of economics and transportation. All data are available from online resource. 
 
 *Data comes from JHU CORONAVIRUS Resource Center: https://coronavirus.jhu.edu/*
 
